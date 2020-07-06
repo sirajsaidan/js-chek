@@ -1,0 +1,16 @@
+<svg id="Asset_4star" data-name="Asset 4star" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173 26.959">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb829;
+      }
+    </style>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <path id="Path_64" data-name="Path 64" class="cls-1" d="M14.172,0,18.55,8.876,28.345,10.3l-7.086,6.908,1.674,9.753L14.172,22.35,5.412,26.959l1.674-9.753L0,10.3,9.795,8.876Z"/>
+    <path id="Path_65" data-name="Path 65" class="cls-1" d="M83.172,0,87.55,8.876,97.345,10.3l-7.086,6.908,1.674,9.753L83.172,22.35l-8.761,4.609,1.674-9.753L69,10.3l9.795-1.422Z" transform="translate(-32.782)"/>
+    <path id="Path_66" data-name="Path 66" class="cls-1" d="M152.172,0l4.378,8.876,9.795,1.422-7.086,6.908,1.674,9.753-8.761-4.609-8.761,4.609,1.674-9.753L138,10.3l9.795-1.422Z" transform="translate(-65.564)"/>
+    <path id="Path_67" data-name="Path 67" class="cls-1" d="M221.172,0l4.378,8.876,9.795,1.422-7.086,6.908,1.674,9.753-8.761-4.609-8.761,4.609,1.674-9.753L207,10.3l9.795-1.422Z" transform="translate(-98.345)"/>
+    <path id="Path_526" data-name="Path 526" class="cls-1" d="M221.172,0l4.378,8.876,9.795,1.422-7.086,6.908,1.674,9.753-8.761-4.609-8.761,4.609,1.674-9.753L207,10.3l9.795-1.422Z" transform="translate(-62.345)"/>
+  </g>
+</svg>

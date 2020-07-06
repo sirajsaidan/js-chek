@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.869 22.603">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6a6f70;
+      }
+    </style>
+  </defs>
+  <g id="Group_158" data-name="Group 158" transform="translate(0)">
+    <g id="Asset_2sort" data-name="Asset 2sort" transform="translate(0 0)">
+      <g id="Calque_2" data-name="Calque 2" transform="translate(0 0)">
+        <path id="Path_61" data-name="Path 61" class="cls-1" d="M7.956,5.126A.754.754,0,1,0,9.022,4.06L5.168.224A.754.754,0,0,0,4.1.224L.266,4.06A.754.754,0,0,0,1.328,5.126L3.879,2.576V14.663a.754.754,0,1,0,1.507,0V2.576Z" transform="translate(-0.07 -0.003)"/>
+        <path id="Path_62" data-name="Path 62" class="cls-1" d="M26.776,29.38a.754.754,0,0,0-1.066,0l-2.551,2.551V19.844a.754.754,0,0,0-1.507,0V31.931L19.1,29.38a.754.754,0,1,0-1.066,1.066l3.839,3.836a.754.754,0,0,0,1.063,0l3.839-3.836a.754.754,0,0,0,0-1.066Z" transform="translate(-11.128 -11.898)"/>
+      </g>
+    </g>
+  </g>
+</svg>

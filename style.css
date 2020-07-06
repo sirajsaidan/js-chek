@@ -1,0 +1,55 @@
+.icon{
+    font-family: DecathlonCube;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    letter-spacing: 0;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: subpixel-antialiased;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    text-size-adjust: none;
+    zoom: 1;
+}
+.l-search-form input{
+    font-family: Roboto-condensed,Arial Narrow,Roboto,Microsoft Yahei,"\5FAE\8F6F\96C5\9ED1",SimSun,"\5B8B\4F53",sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    width: 100%;
+    height: 44px;
+    line-height: 26px;
+    padding: 11px 50px 11px 15px;
+    border: 1px solid #d4d7d9;
+    background: #edeff1;
+    margin: 0;
+    border-radius: 2px 0 0 2px;
+    border-right: 0;
+    text-overflow: ellipsis;
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    color: #575859;
+}
+.l-search-form form{
+    width: 100%;
+    display: table;}
+.l-search-form button {
+    padding: 0 15px;
+    height: 42px;
+    margin: 0;
+    background: #fff;
+    border-color: #d4d7d9;
+    border-style: solid;
+    border-width: 1px 0;
+    box-sizing: content-box;
+    position: relative;
+    font-size: 2rem;
+    line-height: 0;
+}
+.btn, button, input[type=button] {
+    border-radius: 0;
+}

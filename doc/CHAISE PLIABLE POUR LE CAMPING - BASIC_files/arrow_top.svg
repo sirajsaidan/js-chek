@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.546 10.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #227cb3;
+      }
+    </style>
+  </defs>
+  <g id="Asset_2arrow_r" data-name="Asset 2arrow_r" transform="translate(0 10.42) rotate(-90)">
+    <g id="Calque_2" data-name="Calque 2" transform="translate(0 0)">
+      <path id="Path_52" data-name="Path 52" class="cls-1" d="M150.657-661.568a.651.651,0,0,1-.459-.192.652.652,0,0,1,0-.919l9.123-9.123a.652.652,0,0,1,.919,0,.652.652,0,0,1,0,.919l-9.123,9.123A.651.651,0,0,1,150.657-661.568Z" transform="translate(-150.008 681.114)"/>
+      <path id="Path_53" data-name="Path 53" class="cls-1" d="M159.78-689.568a.652.652,0,0,1-.459-.192l-9.123-9.123a.652.652,0,0,1,0-.919.652.652,0,0,1,.919,0l9.123,9.123a.652.652,0,0,1,0,.919A.652.652,0,0,1,159.78-689.568Z" transform="translate(-150.008 699.992)"/>
+    </g>
+  </g>
+</svg>

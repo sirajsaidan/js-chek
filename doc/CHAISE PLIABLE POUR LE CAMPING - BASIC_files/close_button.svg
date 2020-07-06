@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.36 35.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+    </style>
+  </defs>
+  <g id="Asset_12close" data-name="Asset 12close" transform="translate(-0.008 -0.008)">
+    <g id="Calque_2" data-name="Calque 2" transform="translate(0.008 0.008)">
+      <path id="Path_576" data-name="Path 576" class="cls-1" d="M19.357,17.689,35.026,2.014A1.175,1.175,0,0,0,33.363.351L17.689,16.02,2.014.351A1.175,1.175,0,0,0,.351,2.014L16.02,17.689.351,33.363a1.175,1.175,0,1,0,1.662,1.662L17.689,19.357,33.363,35.026a1.179,1.179,0,0,0,1.662-1.662Z" transform="translate(-0.008 -0.008)"/>
+    </g>
+  </g>
+</svg>
